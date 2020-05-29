@@ -9,7 +9,7 @@ def mainmenu():
     return """
     <html>
     <body>
-    <center><h1>Hello こんにちは</h1><br/>
+    <center><h1>Hello</h1><br/>
     </body>
     </html>"""
 
